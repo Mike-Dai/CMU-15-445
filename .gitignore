@@ -1,0 +1,8 @@
+station.csv
+trip.csv
+weather.csv
+bike_sharing.db
+setup.sql
+sol
+*.gz
+*.zip
